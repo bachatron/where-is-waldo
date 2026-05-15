@@ -4,6 +4,10 @@ Fullstack photo tagging game inspired by the classic "Where's Waldo?" concept.
 
 Players must locate hidden characters inside large images while the application validates coordinates through a Rails backend API and stores game data using PostgreSQL.
 
+## Live Demo
+
+https://top-waldo-front.onrender.com
+
 ## Features
 
 - Interactive image tagging
@@ -77,6 +81,12 @@ rails server
 - Additional maps
 - Mobile optimization
 - Docker deployment
+
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/waldo.png" width="800">
+</p>
 
 ## Author
 
